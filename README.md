@@ -32,8 +32,8 @@ $ python jupyter-password.py
 Setting Jupyter additional configuration
 ===========================================================================
 Please set a strong password
-Enter password:
-Verify password:
+Enter password: *VERYSECRETPASSW4RD* [enter]
+Verify password: *VERYSECRETPASSW4RD* [enter]
 ===========================================================================
 Following will be added to /home/pieter/.jupyter/jupyter_notebook_config.py
 
