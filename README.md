@@ -25,6 +25,8 @@ python jupyter-password.py
 
 So for example:
 ```
+$ jupyter notebook --generate-config
+Writing default config to: /home/pieter/.jupyter/jupyter_notebook_config.py
 $ python jupyter-password.py
 ===========================================================================
 Setting Jupyter additional configuration
